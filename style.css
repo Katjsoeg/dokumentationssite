@@ -25,13 +25,13 @@ section {
     width: auto;
 }
 
-<<<<<<< HEAD
 h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 2rem;
     color: saddlebrown;
     text-transform: uppercase;
-=======
+}
+
 .image2 {
     background-image: url(billeder/wireframe_web.png);
     height: 60%;
@@ -42,6 +42,4 @@ h1 {
 
     height: auto;
     width: auto;
-
->>>>>>> origin/master
 }
