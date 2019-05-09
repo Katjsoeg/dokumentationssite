@@ -90,13 +90,12 @@ h4 {
 }
 
 .image5 {
-    height: auto;
-    width: auto;
+    display: block;
 }
 
 .git {
-    width:;
-    height:;
+    width: 1000px;
+    height: 560px;
 }
 
 .masonry {
