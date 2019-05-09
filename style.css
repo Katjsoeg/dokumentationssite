@@ -25,15 +25,16 @@ section {
     width: auto;
 }
 
-.image2 {
-    background-image: url(billeder/wireframe_web.png);
-    height: 60%;
-    width: 60%;
+.wireframe {
+    display: block;
+    background: url(billeder/wireframe_web.png);
+    width: 900px;
+    height: 1963px;
 }
 
-.image3 {
-
-    height: auto;
-    width: auto;
-
+.fotostil {
+    display: block;
+    background: url(billeder/fotostil.jpg);
+    width: 1097px;
+    height: 768px;
 }
