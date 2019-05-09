@@ -28,12 +28,26 @@ section {
     padding-bottom: 1rem;
 }
 
-.wireframe {
-    display: block;
-    background: url(billeder/wireframe_web.png);
-    opacity: 1;
-    width: 900px;
-    height: 1963px;
+.image2 {
+    display: flex;
+
+
+}
+
+.wireframeweb {
+    align-self: auto;
+    background: url(billeder/wireframeweb.png);
+    width: 700px;
+    height: 1563px;
+    margin: 0.5em;
+}
+
+.wireframephone {
+    align-self: auto;
+    background: url(billeder/wireframephone.png);
+    width: 275px;
+    height: 3580px;
+    margin: 0.5em;
 }
 
 .fotostil {
@@ -51,7 +65,9 @@ h1 {
     text-transform: uppercase;
 }
 
-h3 {
+
+h3,
+h4 {
     padding: 0.5em;
 }
 
@@ -61,13 +77,13 @@ h3 {
 }
 
 
-.image2 {
-    background-image: url(billeder/wireframe_web.png);
+.image3 {
+    background-image: url(billeder/layoutdiagram.png);
     height: 60%;
     width: 60%;
 }
 
-.image3 {
+.image4 {
 
     height: auto;
     width: auto;
