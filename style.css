@@ -19,3 +19,8 @@ section {
     background-color: #caa472;
     font-family: sans-serif;
 }
+
+#storyboard .image {
+    height: auto;
+    width: auto;
+}
