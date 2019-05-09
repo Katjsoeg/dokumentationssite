@@ -16,8 +16,9 @@ body {
 section {
     margin: 1em;
     padding: 2em;
-    background-color: #caa472;
+    background-color: burlywood;
     font-family: sans-serif;
+    opacity: 0.9;
 }
 
 .image {
@@ -25,6 +26,7 @@ section {
     width: auto;
 }
 
+<<<<<<< HEAD
 .wireframe {
     display: block;
     background: url(billeder/wireframe_web.png);
@@ -37,4 +39,23 @@ section {
     background: url(billeder/fotostil.jpg);
     width: 1097px;
     height: 768px;
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    color: black;
+    text-transform: uppercase;
+}
+
+.image2 {
+    background-image: url(billeder/wireframe_web.png);
+    height: 60%;
+    width: 60%;
+}
+
+.image3 {
+
+    height: auto;
+    width: auto;
+
 }
