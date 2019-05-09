@@ -37,8 +37,8 @@ section {
 .wireframeweb {
     align-self: auto;
     background: url(billeder/wireframeweb.png);
-    width: 900px;
-    height: 1963px;
+    width: 700px;
+    height: 1563px;
     margin: 0.5em;
 }
 
@@ -46,7 +46,7 @@ section {
     align-self: auto;
     background: url(billeder/wireframephone.png);
     width: 275px;
-    height: 3780px;
+    height: 3580px;
     margin: 0.5em;
 }
 
