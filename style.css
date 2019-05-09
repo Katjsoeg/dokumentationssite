@@ -20,14 +20,28 @@ section {
     font-family: sans-serif;
 }
 
-#storyboard .image {
+.image {
     height: auto;
     width: auto;
 }
 
+<<<<<<< HEAD
 h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 2rem;
     color: saddlebrown;
     text-transform: uppercase;
+=======
+.image2 {
+    background-image: url(billeder/wireframe_web.png);
+    height: 60%;
+    width: 60%;
+}
+
+.image3 {
+
+    height: auto;
+    width: auto;
+
+>>>>>>> origin/master
 }
