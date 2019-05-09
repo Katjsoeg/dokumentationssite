@@ -89,6 +89,16 @@ h4 {
     width: auto;
 }
 
+.image5 {
+    height: auto;
+    width: auto;
+}
+
+.git {
+    width:;
+    height:;
+}
+
 .masonry {
     /* Masonry container */
     -webkit-column-count: 4;
