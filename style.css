@@ -18,12 +18,28 @@ section {
     padding: 2em;
     background-color: burlywood;
     font-family: sans-serif;
-    opacity: 0.9;
+
 }
 
 .image {
     height: auto;
     width: auto;
+}
+
+.wireframe {
+    display: block;
+    background: url(billeder/wireframe_web.png);
+    opacity: 1;
+    width: 900px;
+    height: 1963px;
+}
+
+.fotostil {
+    display: block;
+    background: url(billeder/fotostil.jpg);
+    opacity: 1;
+    width: 1097px;
+    height: 768px;
 }
 
 h1 {
@@ -32,6 +48,7 @@ h1 {
     color: black;
     text-transform: uppercase;
 }
+<<<<<<< HEAD
 
 .image2 {
     background-image: url(billeder/wireframe_web.png);
@@ -109,3 +126,5 @@ h1 {
         column-count: 4;
     }
 }
+=======
+>>>>>>> origin/master
