@@ -26,7 +26,6 @@ section {
     width: auto;
 }
 
-<<<<<<< HEAD
 .wireframe {
     display: block;
     background: url(billeder/wireframe_web.png);
@@ -39,6 +38,7 @@ section {
     background: url(billeder/fotostil.jpg);
     width: 1097px;
     height: 768px;
+}
 
 h1 {
     font-family: 'Oswald', sans-serif;
