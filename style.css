@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    display: block;
+    padding: 1em;
+}
+
+body {
+    background-image: url(woodbg.jpeg);
+}
+
+section {
+    margin: 1em;
+    padding: 2em;
+    background-color: #caa472;
+    font-family: sans-serif;
+}
