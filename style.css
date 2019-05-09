@@ -48,9 +48,8 @@ h1 {
     color: black;
     text-transform: uppercase;
 }
-<<<<<<< HEAD
 
-.image2 {
+<<<<<<< HEAD .image2 {
     background-image: url(billeder/wireframe_web.png);
     height: 60%;
     width: 60%;
@@ -91,6 +90,7 @@ h1 {
     box-shadow: 2px 2px 4px 0 #ccc;
 }
 
+
 .item img {
     max-width: 100%;
 }
@@ -126,5 +126,3 @@ h1 {
         column-count: 4;
     }
 }
-=======
->>>>>>> origin/master
