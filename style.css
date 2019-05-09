@@ -24,6 +24,8 @@ section {
 .image {
     height: auto;
     width: auto;
+
+    padding-bottom: 1rem;
 }
 
 .wireframe {
@@ -47,4 +49,13 @@ h1 {
     font-size: 2rem;
     color: black;
     text-transform: uppercase;
+}
+
+h3 {
+    padding: 0.5em;
+}
+
+#video {
+    max-width: 100%;
+    height: auto;
 }
