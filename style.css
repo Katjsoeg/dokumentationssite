@@ -18,6 +18,7 @@ section {
     padding: 2em;
     background-color: burlywood;
     font-family: sans-serif;
+    opacity: 0.9;
 }
 
 .image {
