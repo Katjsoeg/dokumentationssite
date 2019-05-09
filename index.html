@@ -47,7 +47,7 @@
             Derudover er det en lille smule uklart ved første øjekast om der sælges køkkener eller andet inventar. Der har vi til opgave at gøre det tydeligt for forbrugeren at her er tale om en møbelsnedker, som laver unikke produkter specielt til forbrugeren.</p>
 
         <h3>Dokumentation til virksomhedsvideo</h3>
-        <p></p>
+
         <h3>Præmis</h3>
         <p>Unikt håndværk i god kvalitet, lavet med kærlighed. </p>
         <h3>Log-line</h3>
@@ -60,6 +60,7 @@
             <img src="billeder/storyboard2.png" alt="storyboard2">
             <img src="billeder/storyboard3.png" alt="storyboard3">
         </div>
+
         <h3>Interviewguide</h3>
         <ol>
             <li>Hvem er du?</li>
@@ -85,6 +86,26 @@
 
         <p>Liste over content, som i vil bruge på sitet.</p>
         <h3>Responsive video</h3>
+        <div class="video">
+            <div id="video_container">
+                <!-- Video/Embedlink? -->
+                <video id="video">
+                    <source src="video.mp4" type="video/mp4">
+                    <p>
+                        Your browser doesn't support HTML5 video.
+                        <a href="video.mp4">Download</a> the video instead.
+                    </p>
+                </video>
+                <!-- Video Controls -->
+                <div id="video-controls">
+                    <button type="button" id="play-pause">Play</button>
+                    <input type="range" id="seek-bar" value="0">
+                    <button type="button" id="mute">Mute</button>
+                    <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
+                    <button type="button" id="full-screen">Full-Screen</button>
+                </div>
+            </div>
+        </div>
         <h3>Stilfotos</h3>
         <div class="masonry">
             <div class="item">
@@ -150,9 +171,7 @@
         <h3>Kilder</h3>
         <ul>
             <li><a href="https://www.w3schools.com/howto/howto_css_searchbar.asp">Søgemaskine</a></li>
-            <li>
-                <a href="https://stackoverflow.com/questions/21955631/css-semi-transparent-box">Halvgennemsigtig baggrund på bokse</a>
-            </li>
+
         </ul>
         <h3>Screenshot af GIT</h3>
         <p>Skærmdump af Git versions historik</p>
@@ -162,5 +181,5 @@
 
 
 
-    <script src=""></script>
+    <script src="script.js"></script>
 </body></html>

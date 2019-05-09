@@ -24,6 +24,8 @@ section {
 .image {
     height: auto;
     width: auto;
+
+    padding-bottom: 1rem;
 }
 
 .wireframe {
@@ -49,7 +51,22 @@ h1 {
     text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD .image2 {
+=======
+h3 {
+    padding: 0.5em;
+}
+
+#video {
+    max-width: 100%;
+    height: auto;
+}
+=======
+<<<<<<< HEAD
+
+.image2 {
+>>>>>>> origin/master
     background-image: url(billeder/wireframe_web.png);
     height: 60%;
     width: 60%;
@@ -126,3 +143,9 @@ h1 {
         column-count: 4;
     }
 }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
