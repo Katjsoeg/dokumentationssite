@@ -18,7 +18,7 @@ section {
     padding: 2em;
     background-color: burlywood;
     font-family: sans-serif;
-    opacity: 0.9;
+
 }
 
 .image {
@@ -29,6 +29,7 @@ section {
 .wireframe {
     display: block;
     background: url(billeder/wireframe_web.png);
+    opacity: 1;
     width: 900px;
     height: 1963px;
 }
@@ -36,6 +37,7 @@ section {
 .fotostil {
     display: block;
     background: url(billeder/fotostil.jpg);
+    opacity: 1;
     width: 1097px;
     height: 768px;
 }
