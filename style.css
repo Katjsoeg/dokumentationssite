@@ -16,11 +16,18 @@ body {
 section {
     margin: 1em;
     padding: 2em;
-    background-color: #caa472;
+    background-color: burlywood;
     font-family: sans-serif;
 }
 
 #storyboard .image {
     height: auto;
     width: auto;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2rem;
+    color: saddlebrown;
+    text-transform: uppercase;
 }
