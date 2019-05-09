@@ -46,16 +46,3 @@ h1 {
     color: black;
     text-transform: uppercase;
 }
-
-.image2 {
-    background-image: url(billeder/wireframe_web.png);
-    height: 60%;
-    width: 60%;
-}
-
-.image3 {
-
-    height: auto;
-    width: auto;
-
-}
